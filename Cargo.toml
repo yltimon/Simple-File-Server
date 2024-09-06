@@ -1,0 +1,9 @@
+[package]
+name = "rust-bounty"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+walkdir = "2.3"
+infer = "0.7"
+url-escape = "0.1.1"
